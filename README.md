@@ -1,8 +1,10 @@
 # PostgrSQL_Library_Management_System
+![screenshot](5u92qg9i.png)  
+
 ## Project Overview
 
-**Project Title**: Retail Sales Analysis  
-**Database**: `Retail_Sales_Analysis`
+**Project Title**: Library Management System And Analysis  
+**Database**: `Library_database`
 
 Through this project I will demonstrate my SQL skills and techniques to create a database, createtables, populate them with data obtained from a small regional library.  I will then explore, clean, and analyze retail sales data. I wperforming exploratory data analysis, and answering specific business questions through SQL queries.  The programming language I am using is PostgreSQL.
 
@@ -137,7 +139,8 @@ ADD CONSTRAINT fk_issued_status
 FOREIGN KEY (issued_id)
 REFERENCES issued_status(issued_id);
 ```
-Using PGAdmin4's EDR tool, I am generating an EDR containing all the table relationships I wish to have.
+Using PGAdmin4's EDR tool, I am generating an EDR containing all the table relationships I wish to have.  
+The file called 'Lbrary Database EDR.pgerd' is attached in the list of files in the current repository.
 
 I will move on to importing the tables data.
 While importing the data into the "emplooyee" table, I get the following error: 'ERROR: invalid input syntax for type integer: "60000.00"'
