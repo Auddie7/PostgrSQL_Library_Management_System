@@ -6,18 +6,19 @@
 **Project Title**: Library Management System And Analysis  
 **Database**: `Library_database`
 
-Through this project I will demonstrate my SQL skills and techniques to create a database, createtables, populate them with data obtained from a small regional library.  I will then explore, clean, and analyze retail sales data. I wperforming exploratory data analysis, and answering specific business questions through SQL queries.  The programming language I am using is PostgreSQL.
+Through this project I will demonstrate my SQL skills and techniques to create a database, create tables, populate them with data obtained from a small regional library.  I will then explore, clean, and analyze available data. I will be performing exploratory data analysis, and answering specific business questions through SQL queries.  The programming language I am using is PostgreSQL through PGAdmin4.
 
 ## Objectives
 
-This project showcases the development of a Library Management System utilizing SQL. 
-It involves designing and managing tables, carrying out CRUD operations, and executing complex SQL queries. 
-The aim is to highlight my skills in in database structure, data handling, and advanced querying techniques.
-**Library Management System Implementation Steps:**
-1- **Database Setup:** Establish the Library Management System database by creating and populating tables for branches, employees, members, books, issued status, and return status.
-2- **CRUD Operations:** Execute Create, Read, Update, and Delete operations to manage and manipulate the stored data effectively.
-3- **CTAS (Create Table As Select):** Leverage the CTAS feature to generate new tables dynamically based on the results of existing SQL queries.
-4- **Advanced SQL Queries:** Construct sophisticated queries to extract and analyze targeted information, enabling detailed insights and reporting.
+This project showcases the development of a Library Management System utilizing SQL.   
+It involves designing and managing tables, carrying out CRUD operations, and executing complex SQL queries.   
+The aim is to highlight my skills in in database structure, data handling, and advanced querying techniques.  
+
+**Library Management System Implementation Steps:**  
+1- **Database Setup:** Establish the Library Management System database by creating and populating tables for branches, employees, members, books, issued status, and return status.  
+2- **CRUD Operations:** Execute Create, Read, Update, and Delete operations to manage and manipulate the stored data effectively.  
+3- **CTAS (Create Table As Select):** Leverage the CTAS feature to generate new tables dynamically based on the results of existing SQL queries.  
+4- **Advanced SQL Queries:** Construct sophisticated queries to extract and analyze targeted information, enabling detailed insights and reporting.  
 
 
 ## Project Structure
