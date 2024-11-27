@@ -408,7 +408,7 @@ LIMIT 3
 ```
 
 
-**PART 5: CONCLUSIONS
+**PART 5: CONCLUSIONS**
 
 -- We only had 1 new member registration in the last 200 days.   
 -- We have a lot more titles in the classics and history categories, but only 1 title in science fiction and no romance.  Science fiction and romance are very popular, and we should remedy to that.  
@@ -420,4 +420,16 @@ LIMIT 3
 -- Michelle Ramirez and Laura Martinez are the employess who have issued the most books.
 
 
+  
+## Author - Audrey Tam
 
+This project is part of my portfolio, showcasing the SQL skills needed for data analyst roles. Please reach out with any questions or feedback.
+
+### Reach me
+
+Website: https://datawithaudrey.com  
+Email: auddie7@gmail.com
+LinkdIn: www.linkedin.com/in/audrey-tam-2771341a5
+
+
+Thank you for stopping by, and I look forward to connecting with you.
