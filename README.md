@@ -428,9 +428,9 @@ This project is part of my portfolio, showcasing the SQL skills needed for data 
 
 ### Reach me
 
-Website: https://datawithaudrey.com  
-Email: auddie7@gmail.com
-LinkdIn: www.linkedin.com/in/audrey-tam-2771341a5
+Website: https://datawithaudrey.com    
+Email: auddie7@gmail.com  
+LinkdIn: www.linkedin.com/in/audrey-tam-2771341a5  
 
 
 Thank you for stopping by, and I look forward to connecting with you.
